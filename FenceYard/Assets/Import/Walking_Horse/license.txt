@@ -1,0 +1,11 @@
+Model Information:
+* title:	Walking Horse
+* source:	https://sketchfab.com/3d-models/walking-horse-37edd07985684e18a50e111cd4087824
+* author:	Vaporworks (https://sketchfab.com/Vaporworks)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Walking Horse" (https://sketchfab.com/3d-models/walking-horse-37edd07985684e18a50e111cd4087824) by Vaporworks (https://sketchfab.com/Vaporworks) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
